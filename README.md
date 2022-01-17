@@ -3,10 +3,10 @@ Race against a friend. The first player to reach the finish line 3 times wins th
 
 Keys:
 
-## Green ball
+### Green ball
 Arrow keys
 
-## Yellow ball
+### Yellow ball
 (optimized for QWERTY keyboard)
 w-upwards
 a-left
