@@ -7,8 +7,7 @@ Keys:
 Arrow keys
 
 ### Yellow ball
-(optimized for QWERTY keyboard)
-w-upwards
-a-left
-s-down
-d-right
+(optimized for QWERTY keyboard) n\w-upwards
+n\a-left
+n\s-down
+n\d-right
